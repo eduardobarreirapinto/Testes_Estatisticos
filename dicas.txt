@@ -1,0 +1,3 @@
+pip freeze > bibliotecas.txt
+pip install git+https://github.com/mwaskom/pymtest.git
+pip install -r bibliotecas.txt
